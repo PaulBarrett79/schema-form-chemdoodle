@@ -1,0 +1,25 @@
+{
+  "name": "schema-form-chemdoodle",
+  "version": "0.0.0",
+  "homepage": "https://github.com/PaulBarrett79/schema-form-chemdoodle",
+  "authors": [
+    "paulbarrett79 <paulbarrett79@gmail.com>"
+  ],
+  "description": "A module allowing the Chemdoodle chemical sketcher to be used as a form element in a schema form",
+  "main": "schema-form-chemdoodle.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "dependencies": {
+    "chemdoodle-angular": "https://github.com/strets123/chemdoodle-angular.git#0.2.0"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
